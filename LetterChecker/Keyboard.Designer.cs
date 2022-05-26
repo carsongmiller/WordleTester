@@ -532,7 +532,6 @@ namespace LetterChecker
 			this.Controls.Add(this.letter_Q);
 			this.Name = "Keyboard";
 			this.Size = new System.Drawing.Size(810, 243);
-			this.Load += new System.EventHandler(this.Keyboard_Load);
 			this.ResumeLayout(false);
 
 		}
